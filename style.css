@@ -1,6 +1,6 @@
 :root {
 	--primary: hsl(325, 88%, 58%);
-	background-image: url("cat-story\background.png");
+	background-image: url("/cat-story/background.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
